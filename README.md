@@ -21,7 +21,7 @@ This is the legendary Titanic Machine Learning competition – the perfect first
 
 ---
 
-You can copy and edit the code directly from my Kaggle notebook: [Titanic - Getting Started with Kaggle Competitions](https://www.kaggle.com/code/elcaiseri/titanic-simple-models-for-beginners-with-eda)
+You can copy and edit the code directly from my Kaggle notebook: [Titanic - Getting Started with Kaggle Competitions](https://www.kaggle.com/code/elcaiseri/titanic-getting-starts-with-kaggle-competitions)
 
 Follow me on Kaggle: [Kassem@elcaiseri](https://www.kaggle.com/elcaiseri)
 
